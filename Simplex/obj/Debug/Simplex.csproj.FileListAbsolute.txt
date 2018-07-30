@@ -1,0 +1,12 @@
+c:\users\rt\documents\visual studio 2015\Projects\Simplex\Simplex\bin\Debug\Simplex.exe.config
+c:\users\rt\documents\visual studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.csprojResolveAssemblyReference.cache
+c:\users\rt\documents\visual studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.Form1.resources
+c:\users\rt\documents\visual studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+c:\users\rt\documents\visual studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.csproj.GenerateResource.Cache
+C:\Users\rt\Documents\Visual Studio 2015\Projects\Simplex\Simplex\bin\Debug\Simplex.exe
+C:\Users\rt\Documents\Visual Studio 2015\Projects\Simplex\Simplex\bin\Debug\Simplex.pdb
+C:\Users\rt\Documents\Visual Studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.exe
+C:\Users\rt\Documents\Visual Studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.pdb
+C:\Users\rt\Desktop\diet\Simplex\bin\Debug\Simplex.exe.config
+C:\Users\rt\Desktop\diet\Simplex\obj\Debug\Simplex.exe
+C:\Users\rt\Desktop\diet\Simplex\obj\Debug\Simplex.pdb
